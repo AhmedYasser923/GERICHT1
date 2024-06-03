@@ -20,10 +20,10 @@ const Gallery = () => {
         <button>View More</button>
       </div>
       <div className="app__gallery-images">
-        <img src={gallery01} alt="" />
-        <img src={gallery02} alt="" />
-        <img src={gallery03} alt="" />
-        <img src={gallery04} alt="" />
+        <img src={gallery01} alt="gallery image" />
+        <img src={gallery02} alt="gallery image" />
+        <img src={gallery03} alt="gallery image" />
+        <img src={gallery04} alt="gallery image" />
       </div>
     </div>
   );
